@@ -23,3 +23,10 @@
 # if num (odd):
 #     print("the number is odd")
 
+# num = int(input("enter a number"))
+# my_list = [1, 2, 3, 4, 5,]
+# my_list.append(num)
+# print(my_list)
+
+# name = input("enter a name")
+# print("hello" , name)
